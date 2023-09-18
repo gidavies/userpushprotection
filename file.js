@@ -1,1 +1,1 @@
-var config="https://github.com/gidavies/userpushprotection"
+var config="AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q"
