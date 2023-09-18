@@ -1,1 +1,1 @@
-var config="AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q"
+var config=""
